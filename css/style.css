@@ -571,6 +571,13 @@ header {
     color: #ffffff;
 }
 
+.contact_info .discord:hover,
+.contact_info .discord:hover .tooltip,
+.contact_info .discord:hover .tooltip::before {
+    background: #7289DA;
+    color: #ffffff;
+}
+
 .contact {
     background: #EE7F38;
     color: rgb(0, 0, 0);
